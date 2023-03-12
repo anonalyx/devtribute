@@ -18,4 +18,4 @@ Components:
 - - - - - - - - - - 
 1. Landing Page/ Leaderboard
 2. Admin Portal
-3. 
+3. Overlay on GH at top or next to issues (Bounties) this is the work that is actually paid for.
